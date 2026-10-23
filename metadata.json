@@ -1,0 +1,6 @@
+{
+  "name": "FitPoulad - اپلیکیشن جامع بدنسازی و فیتنس",
+  "description": "پلتفرم تخصصی بدنسازی و تمرین ورزشی با بانک حرکات، ثبت ست‌ها، تایمر استراحت، ردیاب کالری و پایش پیشرفت به زبان فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
